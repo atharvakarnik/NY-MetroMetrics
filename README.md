@@ -2,12 +2,12 @@
 
 Welcome to the MTA NY Metro Ridership Data Analysis project! Here I've been exploring the MTA New York Metro system's ridership over past few years. The project is an ongoing effort, and I'm continuously enhancing my methods and findings by adapting to problem staments with suitable methods and technologies.
 
-## Technologies Used
+## Technologies Used:
 - **Python**: For data extraction and analysis.
 - **SQL**: For data querying.
 - **DuckDB**: For data storage and efficient querying.
 
-## Problem Statements Tackled
+## Problem Statements Tackled:
 Some of the questions I tried to answer:
 
 - **Daily Ridership Trends**: Analyzing the daily ridership trends for the MTA subways through post-pandemic time to identify fluctuations and patterns.
@@ -22,8 +22,8 @@ Some of the questions I tried to answer:
 
 These analyses provide insights into how ridership varies across time, days of the week, and different modes of transportation, helping to uncover patterns and potential areas for optimization in the MTA system.
 
-## Contributions
+## Contributions:
 Contributions are welcome! Please fork the repository and submit a pull request for any additions or improvements.
 
-## License
+## License:
 NY-MetroMetrics is licensed under the Apache 2.0 License.
