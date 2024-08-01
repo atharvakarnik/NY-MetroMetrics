@@ -1,4 +1,4 @@
-# NY-MetroMetrics - A Data Engineering Project to Analyze NY Metro Ridership
+# MetroMetrics - A Data Engineering Project to Analyze NY Metro Ridership
 
 Welcome to the MTA NY Metro Ridership Data Analysis project! Here I've been exploring the MTA New York Metro system's ridership over past few years. The project is an ongoing effort, and I'm continuously enhancing my methods and findings by adapting to problem staments with suitable methods and technologies.
 
